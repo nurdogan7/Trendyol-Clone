@@ -10,6 +10,7 @@
     text-decoration: none;
     font-size: 15px;
     color: black;
+    list-style-type: none;
 }
 .text-black {
     color: black;
@@ -19,10 +20,6 @@
 }
 .navbar-links {
     list-style-type: none;
-}
-.text-reset-2 {
-    list-style-type: none;
-    text-decoration: none;
 }
 .text-white {
 color: #fff;
@@ -71,6 +68,9 @@ color: #fff;
     background-color: #f27a1a;
     transition: all 0.3s;
 }
+.text-align {
+    text-align: justify;
+}
 
 @media (min-width: 375px) and (max-width: 1175px) { 
 
@@ -89,5 +89,8 @@ color: #fff;
 }
 .hamburger {
     display: block;
+}
+.gradient-links {
+    display: none;
 }
 }
