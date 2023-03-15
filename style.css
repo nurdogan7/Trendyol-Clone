@@ -94,3 +94,19 @@ color: #fff;
     display: none;
 }
 }
+footer {
+    color:#fff;
+}
+footer li {
+    color:#fff;
+    margin-bottom: 20px;
+}
+.footer-info {
+    margin-top: 100px,
+}
+.bg {
+    background-color: #000;
+}
+footer a {
+    color:#fff;
+}
